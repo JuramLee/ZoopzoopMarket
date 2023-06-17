@@ -22,6 +22,7 @@ import { basicSetting } from 'Styles/common';
 const ReviewPage = () => {
 	const target = useRecoilValue(reviewAtom);
 	const { idx } = useParams();
+	console.log(1);
 
 	const title = target.title;
 	const [content, setContent] = useState('');
