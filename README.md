@@ -1,24 +1,58 @@
-## 👀 프로젝트 소개
+***
+### 1. 프로젝트 소개
+***
+<br />
 <div align="center">
 <img width="20%" src="https://github.com/Frontend-TEAM1/ZoopzoopMarket/assets/117559842/17ed16f5-694b-41c0-a38b-100d6bddaed0"/>
-<br/>
-<br/>
+  </div> 
+ 
+<h3 align="center">줍줍마켓</h3>
+<h4>줍줍마켓은 중고 거래 플랫폼입니다.</h4>
+<ul>
+  <li>제목과 본문 혹은 태그에 포함된 키워드로 손쉬운 중고템 및 무료템 검색 기능</li>
+  <li>등록된 아이템의 구매와 판매</li>
+  <li>실시간 채팅</li>
+  <li>판매가 완료된 거래내역을 기반의 시세 검색</li>
+  <li>마이페이지 내 가계부 탭에서 나의 거래활동 확인</li> 
+  <li>리뷰를 통한 구매한 아이템 판매자 평가</li>
+</ul>
+<h4>Link : https://zoopzoop-market.vercel.app/</h4>
+
 <br/>
 
-   **줍줍마켓** 은 중고 거래 커머스 플랫폼입니다.<br/>
-손쉽게 중고템 및 무료템을 검색하고 사고싶은 물건의 구매할 수 있고<br/>
-내가 가진 아이템의 판매도 간편합니다.<br/>
-실시간 채팅을 통한 거래가 가능하며, 거래내역을 바탕으로 투명한 시세 검색이 가능합니다.<br/>
-마이페이지에서 가계부를 활용해 나의 거래내역을 확인하고<br/> 내가 구매한 아이템의 리뷰를 통한 판매자 신뢰도 평가도 가능합니다☺️
-<br/>
-<br/>
-https://zoopzoop-market.vercel.app/
-</div> 
-<br/>
+***
+### 2. 서비스 화면
+***
+<h3 align="center">회원가입과 로그인</h3>
+<div align="center">
+  <img src="https://github.com/Frontend-TEAM1/ZoopzoopMarket/assets/113501460/b7205d3a-092c-493b-a505-6b1557168aec" width="40%"/>
+</div>
+<h4 align="center"><br />=========================================<br /><br /></h4>
+<h3 align="center">메인페이지</h3>
+<div align="center">
+  <img src="https://github.com/Frontend-TEAM1/ZoopzoopMarket/assets/113501460/9807b36f-48b6-4dcc-bea4-98d7de36422d"  width="40%"/>
+</div>
+<h4 align="center"><br />=========================================<br /><br /></h4>
+<h3 align="center">아이템 등록</h3>
+<div align="center">
+  <img src="https://github.com/Frontend-TEAM1/ZoopzoopMarket/assets/113501460/dc281b9a-b29c-4521-abd3-0c0fb7791e1d" width="40%"/>
+</div>
+<h4 align="center"><br />=========================================<br /><br /></h4>
+<h3 align="center">회원가입과 로그인</h3>
+<div align="center">
+  <img src="https://github.com/Frontend-TEAM1/ZoopzoopMarket/assets/113501460/b7205d3a-092c-493b-a505-6b1557168aec" width="40%"/>
+</div>
+<h4 align="center"><br />=========================================<br /><br /></h4>
+<h3 align="center">회원가입과 로그인</h3>
+<div align="center">
+  <img src="https://github.com/Frontend-TEAM1/ZoopzoopMarket/assets/113501460/b7205d3a-092c-493b-a505-6b1557168aec" width="40%"/>
+</div>
+<h4 align="center"><br />=========================================<br /><br /></h4>
+<h3 align="center">회원가입과 로그인</h3>
+<div align="center">
+  <img src="https://github.com/Frontend-TEAM1/ZoopzoopMarket/assets/113501460/b7205d3a-092c-493b-a505-6b1557168aec" width="40%"/>
+</div>
 
-## 🖥️ 서비스 화면
-
-<캡쳐화면>
 
 <br>
 
