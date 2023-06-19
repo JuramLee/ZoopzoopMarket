@@ -16,7 +16,8 @@
   <li>마이페이지 내 가계부 탭에서 나의 거래활동 확인</li> 
   <li>리뷰를 통한 구매한 아이템 판매자 평가</li>
 </ul>
-<h4>Link : https://zoopzoop-market.vercel.app/</h4>
+<h4>배포 Link : https://zoopzoop-market.vercel.app/</h4>
+<h4>프로젝트 후기 : https://juramemo.tistory.com/6</h4>
 
 <br/>
 
