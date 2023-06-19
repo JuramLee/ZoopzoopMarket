@@ -23,50 +23,8 @@
 ***
 ### 2. 서비스 화면
 ***
-<h3 align="center">회원가입과 로그인</h3>
 <div align="center">
-  <img src="https://github.com/Frontend-TEAM1/ZoopzoopMarket/assets/113501460/b7205d3a-092c-493b-a505-6b1557168aec" width="40%"/>
-</div>
-<h4 align="center"><br />=========================================<br /><br /></h4>
-<h3 align="center">메인페이지</h3>
-<div align="center">
-  <img src="https://github.com/Frontend-TEAM1/ZoopzoopMarket/assets/113501460/9807b36f-48b6-4dcc-bea4-98d7de36422d"  width="40%"/>
-</div>
-<h4 align="center"><br />=========================================<br /><br /></h4>
-<h3 align="center">아이템 등록</h3>
-<div align="center">
-  <img src="https://github.com/Frontend-TEAM1/ZoopzoopMarket/assets/113501460/dc281b9a-b29c-4521-abd3-0c0fb7791e1d" width="40%"/>
-</div>
-<h4 align="center"><br />=========================================<br /><br /></h4>
-<h3 align="center">아이템 수정과 판매완료</h3>
-<div align="center">
-  <img src="https://github.com/Frontend-TEAM1/ZoopzoopMarket/assets/113501460/93e659cb-e546-4f82-a872-d447982ddbb6" width="40%"/>
-</div>
-<h4 align="center"><br />=========================================<br /><br /></h4>
-<h3 align="center">마이페이지</h3>
-<div align="center">
-  <img src="https://github.com/Frontend-TEAM1/ZoopzoopMarket/assets/113501460/5807b90c-dd6b-4daa-80cc-33033688f2c5" width="40%"/>
-</div>
-<h4 align="center"><br />=========================================<br /><br /></h4>
-<h3 align="center">리뷰 등록</h3>
-<div align="center">
-  <img src="https://github.com/Frontend-TEAM1/ZoopzoopMarket/assets/113501460/2903c864-6199-4cf9-8a39-a9dac166ad61" width="40%"/>
-</div>
-<h4 align="center"><br />=========================================<br /><br /></h4>
-<h3 align="center">리뷰 수정, 삭제</h3>
-<div align="center">
-  <img src="https://github.com/Frontend-TEAM1/ZoopzoopMarket/assets/113501460/cdd946c6-2d1b-4942-9aa8-60668600351b" width="40%"/>
-</div>
-
-<h4 align="center"><br />=========================================<br /><br /></h4>
-<h3 align="center">검색과 채팅걸기</h3>
-<div align="center">
-  <img src="https://github.com/Frontend-TEAM1/ZoopzoopMarket/assets/113501460/3e251515-e606-494e-a4c5-a0a2ec9ce2dc" width="40%"/>
-</div>
-<h4 align="center"><br />=========================================<br /><br /></h4>
-<h3 align="center">아이템 리스트와 시세검색</h3>
-<div align="center">
-  <img src="https://github.com/Frontend-TEAM1/ZoopzoopMarket/assets/113501460/3940a299-52cd-4c85-a409-5a7a8491bdf4" width="40%"/>
+  <img src="https://github.com/Frontend-TEAM1/ZoopzoopMarket/assets/113501460/9807b36f-48b6-4dcc-bea4-98d7de36422d"  width="50%"/>
 </div>
 <br />
 
@@ -221,7 +179,6 @@ src
 | :----: | :----: | :----: | :----: | :----: | :----: |
 |<img src="https://avatars.githubusercontent.com/u/117560047?v=4" width="90px"/>|<img src="https://avatars.githubusercontent.com/u/117559842?v=4" width="90px" />|<img src="https://avatars.githubusercontent.com/u/117560052?v=4" width="90px" />|<img src="https://avatars.githubusercontent.com/u/113501460?v=4" width="90px" />|<img src="https://avatars.githubusercontent.com/u/91282032?v=4" width="90px" />|<img src="https://avatars.githubusercontent.com/u/50819030?v=4" width="90px" />|
 |[HyunseoKoo](https://github.com/HyunseoKoo)|[nasilKiM](https://github.com/nasilKiM)|[seonyeong719](https://github.com/seonyeong719)|[JuramLee](https://github.com/JuramLee)|[JaeHoonKOR](https://github.com/JaeHoonKOR)|[YoungSeungJang](https://github.com/YoungSeungJang)|
-|역할|역할|역할|역할|역할|역할|
 <br>
 
 
@@ -251,4 +208,3 @@ Latest ✔ | Latest ✔ | Latest ✔ |
 <br/>
 ❣️ Figma 주소<br />https://www.figma.com/file/q7b02izl7kucudDRoXtmav/Untitled?type=design&node-id=1%3A2&t=m9JEyjau7qMYv10l-1<br />
 ❣️ Notion 주소<br />https://www.notion.so/ZOOP-ZOOP-c505857b1d7a430e958a79533c3f391e?pvs=4<br />
-❣️ github 주소<br />https://github.com/Frontend-TEAM1/ZoopzoopMarket<br />
